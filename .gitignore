@@ -1,0 +1,8 @@
+.vs/
+bin/
+obj/
+*.suo
+*.user
+*.bacpac
+packages/
+.DS_Store
